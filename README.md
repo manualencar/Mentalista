@@ -1,3 +1,3 @@
 # Mentalista
 ##  Jogue e adivinhe o número
-<p align="center">projeto desenvolvido na Imersão Dev</p>
+<p > Projeto desenvolvido na Imersão Dev</p>
